@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Um piano online</title>
-    <link rel="stylesheet" href="CSS/style.css">
-</head>
-<body>
-    <main>
-        <h1>
-            Bem-vindo ao meu piano digital!
-        </h1>
-        <p>
-            Faça bom proveito!
-        </p>
-        <div>
-         <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -531,9 +514,3 @@
        sodipodi:nodetypes="cssssscsssscccsscccssscccccccscccccssccsccccccccsscccccsscsssc" />
   </g>
 </svg>
-
-        </div>
-    </main>
-</body>
-<script src="song.js" ></script>
-</html>
