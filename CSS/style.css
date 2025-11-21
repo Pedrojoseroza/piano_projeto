@@ -8,7 +8,6 @@ main div {
     align-items: center;    
 }
 main div svg {
-    background-color: white;
     margin: 0 0;
     height: fit-content;
 }
